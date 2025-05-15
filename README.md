@@ -3,7 +3,7 @@ This repo looks to extract and join following two data sources:
 1) historical SPY data via yfinance api
 2) Unemployement rates in Canada from statsCanada via downloaded csv file
 
-Final Outputted data results in the following table:
+Final Output Data results in the following table:
 
       |Date | Total_Volume | R4 - Official Rate 11 |
       -----------------------------------------------
